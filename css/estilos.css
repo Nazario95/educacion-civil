@@ -2,7 +2,9 @@
 .navbar-toggler , h1, h2, h3, h4, p, th, td{
     color: #dedede;
 }
-
+.full-screen{
+    height: 100vh;
+}
 .contenedor-principal{
      margin: 0 auto;
     width: 80%;
