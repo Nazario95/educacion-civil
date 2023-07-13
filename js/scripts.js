@@ -1,4 +1,7 @@
 $(function(){
+    //DesabilitarCopiar IMG
+    document.oncontextmenu = function(){return false}
+    
     //variables
     $imagenActual = 1;
 
