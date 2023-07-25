@@ -1,0 +1,14 @@
+[
+    {
+        "id":"1",
+        "nombreLibro":"Guia de Acceso a la Justicia",
+        "fecha": "7 Junio 2023",
+        "enlace":"guia-justicia.html"
+    },
+    {
+        "id":"2",
+        "nombreLibro":"Historia de Guinea Ecuatorial (Proximamente)",
+        "fecha": "1 Agosto 2023",
+        "enlace":"#"
+    }
+]
