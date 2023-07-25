@@ -4,6 +4,8 @@ import librosMasLeidos from "../db-Json/libros-mas-leidos.json" assert{type:"jso
 //leer  nombre de pagina actual
 let paginaActual = location.pathname;
 
+console.log("paginaActual");
+
 //Espera que se cargue el DOM para cargar el JS.
 window.addEventListener('DOMContentLoaded', cargarContenidoJson);
 
