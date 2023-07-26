@@ -3,7 +3,7 @@ import tablaLibros from "../db-Json/tabla-libros.json" assert{type:"json"}
 import librosMasLeidos from "../db-Json/libros-mas-leidos.json" assert{type:"json"}
 //leer  nombre de pagina actual
 let paginaActual = location.pathname;
-
+console.log("paginaActual");
 //Espera que se cargue el DOM para cargar el JS.
 window.addEventListener('DOMContentLoaded', cargarContenidoJson);
 
