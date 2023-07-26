@@ -5,7 +5,7 @@ window.addEventListener('DOMContentLoaded', function(){
     //leyendo pagina actual
     let nombrepaginaActual  = location.pathname;
     //inyectando codigo segun pagina actual
-    if(nombrepaginaActual === '/guia-justicia.html'){inyectarMenu(); inyectarEnlibros();}
+    if(nombrepaginaActual === '/educacion-civil/guia-justicia.html'){inyectarMenu(); inyectarEnlibros();}
 });
 
 //GLOBALES PARA TODAS LAS PAGINAS
